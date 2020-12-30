@@ -1,0 +1,13 @@
+corbos\bullscows\App.class
+corbos\bullscows\data\RoundDao.class
+corbos\bullscows\data\RoundDaoDB$RoundMapper.class
+corbos\bullscows\data\GameDaoDB.class
+corbos\bullscows\data\GameDao.class
+corbos\bullscows\controllers\ExcepHandle.class
+corbos\bullscows\data\GameDaoDB$GameMapper.class
+corbos\bullscows\models\Game.class
+corbos\bullscows\controllers\Error.class
+corbos\bullscows\controllers\GameController.class
+corbos\bullscows\data\RoundDaoDB.class
+corbos\bullscows\TestAppConfig.class
+corbos\bullscows\models\Round.class
